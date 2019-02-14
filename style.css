@@ -1,0 +1,22 @@
+.TitleHeader {
+    text-align: center;
+}
+
+.CategoryBar {
+    position: relative;
+    overflow: hidden;
+}
+  
+.CategoryBar ul {
+    position: relative;
+    left: 47%;
+    float: left;
+  }
+  
+.CategoryBar ul li {
+    position: relative;
+    left: -50%;
+    float: left;
+    list-style: none;
+    margin: 7px;
+  }
